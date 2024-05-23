@@ -1,0 +1,21 @@
+h1{
+    font-size: 80px;
+}
+
+button {
+    width: 250px;
+    height: 80px;
+    color: white;
+    background-color:blue ;
+    margin-bottom: 20px;
+}
+
+button:hover{
+    background-color: green;
+}
+
+
+
+p{
+    font-size: 35px;
+}
